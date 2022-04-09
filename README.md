@@ -4,22 +4,22 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Front-end web developer.
-- 📈 &nbsp; Good experience in ReactJS, but I'm improving it.
-- 🔭 &nbsp; Studing backend, focus in Django and NodeJS.
+- 📈 &nbsp; Experience in ReactJS, Node, and TypeScript.
+- 🔭 &nbsp; Studing Django and Python.
 - 📱 &nbsp; Mobile development in React Native.
-- 🎮 &nbsp; Game development in Unity.
-- 🎨 &nbsp; Some knowledge in JavaScript canvas 2D and 3D.
+- 🎨 &nbsp; Knowledge in JavaScript canvas 2D and 3D.
 - 🏆 &nbsp; Solving programming/hacking challenges as a hobby.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
+- 👌 &nbsp; Keep calm and write clean code.
 - ☕ &nbsp; I believe, a programmer is a machine that turns coffee into code.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | Bootstrap | Material-UI
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Material-UI | Bootstrap
 - 💻 &nbsp; Python | C/C++ | Shell
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Visual Studio Code | Git
-- 🖥 &nbsp; Photoshop | Adobe After Effects | OpenShot
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
+- 🔧 &nbsp; Visual Studio Code | Git | Oh My Zsh
+- 🖥 &nbsp; Photoshop
 
 <h3>📊 Stats</h3>
 
@@ -38,18 +38,3 @@
 &nbsp; <a href="https://www.instagram.com/renantkn/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="50" /></a>
 &nbsp; <a href="https://twitter.com/renantkn" target="_blank" rel="noopener noreferrer"><img src="https://img.favpng.com/6/9/8/wikipedia-logo-computer-icons-portable-network-graphics-vector-graphics-png-favpng-QPaA3LPdUAp2nRJfgW6SgDULD.jpg" width="50" /></a>
 </p>
-
-<!--
-**RenanTKN/RenanTKN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
