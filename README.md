@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Front-end web developer.
+- 💼 &nbsp; Fullstack developer.
 - 📈 &nbsp; Experience in ReactJS, Node, and TypeScript.
 - 🔭 &nbsp; Studing Django and Python.
 - 📱 &nbsp; Mobile development in React Native.
